@@ -1,111 +1,91 @@
 #EXTM3U
 #EXTINF:1,PARAMOUNT CHANNEL
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/paramountchannel_efa260ad_27c353ab34fbc44717d6bdb579427d3b0fd4d662/playlist.m3u8
-#EXTINF:1,E
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/eentertainment_fe2fb474_e6125e9a850a81626e62a0ba7b4d847c5d192d4b/playlist.m3u8
-#EXTINF:-1,TNT
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tnt_9109c85a_050c9d1632b9145ab8cea6c93b7097f174e4e531/playlist.m3u8
-#EXTINF:1,TNT SERIES
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tntseries_3bb18d9a_c453f14748d06adc98e6ef5c348364718ae6db15/playlist.m3u8
-#EXTINF:-1,FOX SPORTS
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsportshd_98fbc42f_7a1cecd2c8c79df01ab5e709b7e1d5f0d2f734ff/playlist.m3u8
-eXTINF:1,FOX SPORTS 2
-https://live.multicanais.com/mylive/foxsports2hd/video.m3u8?md5=-NoeENTGG2jrkT9zyZgGMw&expires=1585248432
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/paramountchannel_efa260ad_3499ead54477231110940e73fe029b338e7acc52/playlist.m3u8
 #EXTINF:-1,FOX PREMIUM 1
-https://live.multicanais.com/mylive/foxpremiumsd/video.m3u8?md5=FgVzqAqeAWX-m3CmVjL2Zg&expires=1585250345
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/foxpremium1_1bdf1a2f_db1eb052574e2b9eb734c51efb8ee1335b17de26/playlist.m3u8
 #EXTINF:-1,HBO PLUS
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_308f8fd75eb178cae5fb29754cfc5dc015cf569d/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hboplus480p_17820ac1_4ac11866aaaa766eea64d108d8c00008366ccdd5/playlist.m3u8
 #EXTINF:1,HBO SIGNATURE
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/hbosignature720p_fa1a6512_36e1efbbe70fd35dd7e445582f878a266f1497a6/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbosignature720p_fa1a6512_a9c966b741830720c358ba30c7aea4e072b687fd/playlist.m3u8
 #EXTINF:1,HBO FAMILY
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_f85125f31bf4cbf6d1894eaebafd30119c1aa5dc/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbofamily_536fb693_ab63c352d08f396ccc667d260be3d3096e5fef7a/playlist.m3u8
 #EXTINF:1,HBO 2 HD
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/hbo1080p_63266754_15bb7b5b19f3bd7b617fe3f880c34182a18fd332/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_f15d613570bfd844027a33f6eef47ae4e892e21b/playlist.m3u8
 #EXTINF:1,SPACE
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/space_e6c3dd63_2fa705ded1d3fee21768a1dbc78d3207b7a89cf3/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/space_e6c3dd63_8e7a621ee965fd9dc70e08daf64fde61cef49acf/playlist.m3u8
 #EXTINF:-1,MEGAPIX
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/megapix_a6f16ab4_661464a1d8f3a5239b4ef70cacd25fd40923d157/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/megapix_a6f16ab4_d2bf0a9a9699d9f18b85504a7b3820e682d4d20c/playlist.m3u8
 #EXTINF:-1,WARNER CHANNEL
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/warnerchannel_0a57cb53_b7a393773763b888e0782d8d525f70d6442fcb19/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/warnerchannel_0a57cb53_7d2c51e610e2cd50e7f529bc27eb6571b4fa61e2/playlist.m3u8
 #EXTINF:-1,DISCOVERY ID
-https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverychannel_af3e1334_c216edcc8f5a84315016f14c7843f4bd1b073020/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/investigacaodiscovery_4d134bc0_fa6bb7cb354b2e74eab39148f4cb828429a493d5/playlist.m3u8
 #EXTINF:-1,DISCOVERY WORLD
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/discoveryworld_68b79337_ddbdc3bea41768712d7e29e710b6542b035235f4/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/discoveryworld_68b79337_2224e0982462c21fe5ed806073a46f1bb83c8f6f/playlist.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC
-https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/nationalgeographic_2e01e174_556c7cacc2f91329cdc61291ee27d588730dfc7a/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/nationalgeographic_2e01e174_73a31eb5a59bfd96f2b01f9a8e2a6fc3e6e5a25a/playlist.m3u8
 #EXTINF:-1,FX
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fx_667be543_5138c3c9d78203ff49987c52a4d019d7469d99af/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fx_667be543_9ae4ee5df8a8bbdb29e0b911b0e7baee58d0bf68/playlist.m3u8
 #EXTINF:-1,AXN
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/axn_cb7a1d77_2470b1489868cfa0818a1b9c364417fcf320a49c/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/axn_cb7a1d77_6694d062c35e696db9a25bb5466ad7bf3a687999/playlist.m3u8
 #EXTINF:1,SYFY
-https://live.multicanais.com/live/syfyhd/video.m3u8?md5=ACu1hHx5NDSLeXXVdv78WA&expires=1585248115
-#EXTINF:-1,ID	
-https://edge-aws.aovivo.club/hls/s:78.46.240.155/investigacaodiscovery_4d134bc0_8ea080351664a518d65da3581d6123b7345072f4/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/syfy_097ccd4f_23bd3b4e943a24cd6692b071e843c71931adce3e/playlist.m3u8
 #EXTINF:-1,HBO
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo2720p_05a53e36_5fdf0f9f758c5762dbf8d4b2756f0324ba9f7835/playlist.m3u8
-#EXTINF:-1,TELECINE PIPOPA HD
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinepipoca_fd937516_e8e5cbf02d7e1069bca798f3ba5e3b21bd02993b/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/hbo1080p_63266754_1f9d0f9ce9c51de586284ebe4343fe166710f364/playlist.m3u8
+#EXTINF:-1,TELECINE PIPOPA
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_2c1e768560226dab2a703f706f2e8d824fa4bfb7/playlist.m3u8
 #EXTINF:1,HISTORY
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_4cecf516c65ae0fa1d4fe32e89b332a1587a16d9/playlist.m3u8
 #ENTINF:1,H2
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/h2_2bfba6b3_10771c9931c09dbd909f2db56081c165c53bb8df/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/h2_2bfba6b3_079fc2b949797149d2d15a987e39ab64f4fa3a11/playlist.m3u8
 #EXTINF:-1,TELECINE PREMIUM
-https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinepremium_a929eb33_48cd94a5ab08ebac3ded113814715271ede25c4a/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinepremium_a929eb33_7e7a4d0ee508355b6b10010acdce242d3fb4c939/playlist.m3u8
 #EXTINF:-1,TELECINE ACTION
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_09ec0295943e135994fba8a50ee541dbd19b884d/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecineaction_be057d4c_1e217daa2fbfcd5b1d2659f72d1203ccced25bcd/playlist.m3u8
 #EXTINF:1,TELECINE CULT
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinecult_8d255e1e_7b5ea686425e102566388e80795b1ee2356dd535/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinecult_8d255e1e_f3730a583712bdbbf06ec7f91ebf8fb4cd75ce5e/playlist.m3u8
 #EXTINF:1,TELECINE FUN
-https://live.multicanais.com/live/tcfunhd/video.m3u8?md5=7oLgW8fejVw4PWUJVzS9OA&expires=1585250375
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/telecinefun_ae1e7198_ea86fd8a4ac359b543b9d94a1b7001f4792003b3/playlist.m3u8
 #EXTINF:-1,COMBATE
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/combate_ac3478d6_4cecf516c65ae0fa1d4fe32e89b332a1587a16d9/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/combate_ac3478d6_42123e2cc296fae2ceb1336618a7f8772ebb1721/playlist.m3u8
 #EXTINF:1,UFC
-https://live.multicanais.com/mylive/combatehd/video.m3u8?md5=sJ1SJNIgQR3fHaugxfulhg&expires=1585250131
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/combate_ac3478d6_42123e2cc296fae2ceb1336618a7f8772ebb1721/playlist.m3u8
 #EXTINF:1,BAND SPORTS
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/bandsports_f53eac2e_f6db87eaa5be079d07e60200aa053266e24def3e/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/bandsports_f53eac2e_b7611168ec19daf3a27a3b02a0b79fd5edfeaea1/playlist.m3u8
 #EXTINF:1,SPORTV
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv_91dfde1d_4667be6566bff1b6c42d090ce5a446d9e36d5f10/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv_91dfde1d_d9b2c0aa86a0b335e7c15762d0e5f511695a7d5f/playlist.m3u8
 #EXTINF:1,SPORTV 2
 http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv2_22ab0e43_e0501263c3237d6fe67e1a0bffc16bcd4af77be7/playlist.m3u8
 #EXTINF:1,SPORTV 3
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv3_e1a864f0_759e55d9499adf6a595f20d6da3f0813161928b2/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/sportv3_e1a864f0_afbf87292995380944753ff38f81d0faab4e688e/playlist.m3u8
 #EXTINF:1,TOONCAST
-https://live.multicanais.com/live/tooncasthd/video.m3u8?md5=e5vII9Q0u0VtEb7qkyzsEQ&expires=1585250910
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/tooncast_8effee40_f0ddd179fcb82f0d32da756e387a91a9d302dd95/playlist.m3u8
 #EXTINF:1,NICK JR
-https://live.multicanais.com/live/nickjrhd/video.m3u8?md5=v70xyB0lpRxZ3QUOw0zcGg&expires=1585250931
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/nickjr_54ceb912_37f4dcc49f8ed1edbdf66232bfd53fb35aa2f70e/playlist.m3u8
 #EXTINF:1,GLOOB
 http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/gloob_04f1241e_1248f6b584100311acde294f91ebea374ffa998b/playlist.m3u8
 #EXTINF:1,DISCOVERY KIDS
-https://live.multicanais.com/live/discoverykidshd/video.m3u8?md5=TRrFGv5B40dg3A-GIYx6Cw&expires=1585250976
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverykids_80e28a51_d09fca7643bea1022a0a64b7a20e3f3e96216379/playlist.m3u8
 #EXTINF:1,BOOMERANG
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/boomerang_2659fc51_1e783e874248168ff79e6f4739e30577feb65b5d/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/boomerang_2659fc51_054ef8017ad73a000c4a9760da6c12dabfb6e0b0/playlist.m3u8
 #EXTINF:1,NICKELODEON
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/nickelodeon_bc33ea4e_9c98591a0a31132f41ab961944270cf40a6f8c59/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/nickelodeon_bc33ea4e_ca3da3c287c8b60d1e19663913625b4c1d856895/playlist.m3u8
 #EXTINF:1,CARTOON NETWORK
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/cartoonnetwork_511a418e_18246a7bfe7c0daf38396f4b1a0f7877f611d0e8/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cartoonnetwork_511a418e_caccea85885f13607c81625d0edbca926bfc8be5/playlist.m3u8
 #EXTINF:1,DISNEY CHANNEL
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_30262d781a6c001c9835727a41fb17b629eb75f4/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/disneychannel_a9334987_e662c873f0a1048195e1dd20c5d15aa19f3e1cfe/playlist.m3u8
 #EXTINF:1,UNIVERSAL
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/universalchannel_8290abc6_5574cde931965820f1957ab2fe2a5ee02f9204b4/playlist.m3u8
-#EXTINF:1,MAX UP
-https://live.multicanais.com/live/maxuphd/video.m3u8?md5=W4DvHGItcDL8-se2Xm1kvA&expires=1585250486
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/universalchannel_8290abc6_59507ed676b8d36260a7cabcf5c18f43c9db8625/playlist.m3u8
 #EXTINF:1,MAX PRIME
-https://live.multicanais.com/live/maxprimehd/video.m3u8?md5=TZB_xN1plFv_FfnBXf3B8w&expires=1585250530
-#EXTINF:1,MAX HD
-https://live.multicanais.com/live/maxhd/video.m3u8?md5=n-UI8vV1wDOVBKRWC_CvLA&expires=1585250580
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/maxprime_9c676e00_fef2b3409aa5dffa9a70e4561a03d60e968b5ee8/playlist.m3u8
 #EXTINF:1,CINEMAX
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/cinemax720p_49117359_25b361c121b3ba38bf86cc1e52502ba7d52e3f8a/playlist.m3u8
-#EXTINF:1,OFF
-http://edge-aws.aovivo.club/hls/s:209.126.108.100:81/canaloff_12f0de3d_7853b6d63f4b8d34825468c24acc8543d72e1d7d/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax480p_22d200f8_9f27a53995293be5739c975a93f9fe8baffbb6c0/playlist.m3u8
 #EXTINF:1,MTV
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/mtvbrasilhd_5dca4777_99641ad83e7b3c67c93ce3592f94f196353f34df/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/mtvbrasil_7719a1c7_563a39ead10d86d502283545ebca1ec8c8e56757/playlist.m3u8
 #EXTINF:1,MULTISHOW
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_20c1deae61bf3f67a18d1c8276a2193b8c1073a9/playlist.m3u8
-#EXTINF:1,GNT
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/gnt_c439c60b_27a2dd9b275854736da1fc2d6487af44b67a0285/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/multishow_5f573b82_963563bf3f997dd5a8453d3f001e40fb8788426a/playlist.m3u8
 #EXTINF:1,FOX
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_b0d3ad4f450e72a93d280d45882e1e13360f6bf6/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fox_5a5b0f9b_93588b375fb57d0cf0b3aa7ac3fce81a4c8f1080/playlist.m3u8
 #EXTINF:1,STUDIO UNIVERSAL
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/studiouniversal_8b4753ed_f5a80f69bbd74a8de274a054aaa4bbc1a1994e51/playlist.m3u8
-#EXTINF:1,FOX PREMIUM
-http://edge-aws.aovivo.club/hls/s:78.46.240.155/foxpremium1_1bdf1a2f_63e49860661c6e7c03078e1b329e1fab8cb7314d/playlist.m3u8
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/studiouniversal_8b4753ed_6467aa185257184425979e1754a2ccd6366169b9/playlist.m3u8
+#EXTINF:1,A FREIRA(dublado)
+https://www2029.o0-5.com/token=LpZvYBNmwJoP69ijz6B4xA/1585332350/187.19.0.0/48/c/77/bffc16490704861c23be033fa295077c-480p.mp4
